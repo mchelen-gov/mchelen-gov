@@ -28,3 +28,6 @@ he/him/his
 
 - ⚡ Fun fact: ...
 VA has a [bot for different acronyms](https://github.com/department-of-veterans-affairs/acronyms) with over 5,000 entries!
+
+
+[![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mchelen-gov)](https://github.com/anuraghazra/github-readme-stats)
