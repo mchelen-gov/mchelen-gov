@@ -21,7 +21,7 @@ See above :D
 VA.gov health tools and services
 
 - 📫 How to reach me: ...
-Shouting into the void
+Open an issue in the appropriate [VA repo](https://github.com/department-of-veterans-affairs) and tag @mchelen-gov
 
 - 😄 Pronouns: ...
 he/him/his
