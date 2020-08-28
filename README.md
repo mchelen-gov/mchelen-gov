@@ -4,6 +4,7 @@
 **mchelen-gov/mchelen-gov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+**Opinions expressed are my own, and do not necessarily represent the views of my employer.**
 
 - 🔭 I’m currently working on ...
 Health Product Engineering, Office of the CTO, Veterans Affairs
