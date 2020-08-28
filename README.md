@@ -29,5 +29,6 @@ he/him/his
 - ⚡ Fun fact: ...
 VA has a [bot for different acronyms](https://github.com/department-of-veterans-affairs/acronyms) with over 5,000 entries!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchelen-gov)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mchelen-gov)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mchelen-gov)](https://github.com/anuraghazra/github-readme-stats)
