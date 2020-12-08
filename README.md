@@ -10,7 +10,7 @@
 Health Product Engineering, Office of the CTO, Veterans Affairs
 
 - 🌱 I’m currently learning ...
-Github personal README
+Github [personal README](https://github.com/mchelen-gov/mchelen-gov/blob/main/BOOKMARKS.md#github-profile-readme)
 
 - 👯 I’m looking to collaborate on ...
 Health tech standards, EMR, EHR, FHIR
